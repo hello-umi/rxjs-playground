@@ -1,0 +1,19 @@
+
+# OSX
+.DS_STORE
+
+# Static
+build/
+dist/
+.env
+
+# Node
+node_modules/
+npm-debug.log
+
+# Tests
+coverage/
+
+# VS Code
+.vs
+.vscode
